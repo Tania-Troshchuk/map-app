@@ -61,7 +61,8 @@ To set up and run the app locally, follow these steps:
 6. Open a new tab in your terminal and navigate to the `map-app-client` directory:
 
     ```bash
-    cd ../map-app-client
+    cd map-app
+    cd map-app-client
     ```
 
 7. Install the required Node.js packages for the client:
