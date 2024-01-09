@@ -1,0 +1,14 @@
+.text-input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  font-size: 18px;
+  letter-spacing: 0.4px;
+}
+
+label span {
+  font-size: 12px;
+}

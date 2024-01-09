@@ -1,0 +1,57 @@
+.cards-list {
+  position: absolute;
+  z-index: 1000;
+  width: 95vw;
+  height: 230px;
+  bottom: 1rem;
+  padding: 10px 0;
+  overflow: scroll;
+  background-color: #3388ffb8;
+  
+  @media (min-width: 1024px) {
+    width: 30%;
+    height: 100%;
+    position: static;
+    padding: 0;
+    border-radius: 20px;
+    background-color: #ffffff30;
+  }
+}
+
+.cards-list__main-title {
+  display: none;
+
+  @media (min-width: 1024px) {
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    padding: 1rem;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    position: sticky;
+    color: #2764ce;
+    top: 0;
+    z-index: 1;
+    border-radius: 20px 20px 0 0;
+  }
+}
+
+.cards-list__title {
+  color: #2764ce;
+  font-size: 16px;
+  text-align: center;
+  padding: 1rem;
+}
+
+.cards-list__content {
+  width: max-content;
+  padding: 0 1rem 0.5rem;
+  display: flex;
+  
+  gap: 0.5rem;
+
+  @media (min-width: 1024px) {
+    width: initial;
+    flex-direction: column;
+  }
+}
