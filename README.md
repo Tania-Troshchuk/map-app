@@ -2,7 +2,7 @@
 
 ## Demo
 
-Check out a live demo of the Currency Converter App to explore its features and functionalities:
+Check out a live demo of the Map-app:
 
 [Live Demo](https://tania-troshchuk.github.io/map-app/)
 
