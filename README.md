@@ -22,7 +22,6 @@ To set up and run the app locally, follow these steps:
     ```bash
     git clone this repo
     cd map-app
-    cd map-app-client
     ```
 
 2. Install the required Node.js packages for the client:
