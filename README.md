@@ -1,5 +1,11 @@
 ## Map-app (frontend)
 
+## Demo
+
+Check out a live demo of the Currency Converter App to explore its features and functionalities:
+
+[Live Demo](https://tania-troshchuk.github.io/map-app/)
+
 ## Tech Stack of implementation (frontend):
 
 - Framework: React
@@ -14,7 +20,7 @@ To set up and run the app locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Tania-Troshchuk/map-app.git
+    git clone this repo
     cd map-app
     cd map-app-client
     ```
