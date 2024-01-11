@@ -36,6 +36,6 @@ To set up and run the app locally, follow these steps:
     npm run dev
     ```
 
-9. Once the client is running, open your browser and navigate to [http://127.0.0.1:5173/](http://127.0.0.1:5173/) to view the application.
+9. Once the client is running, open your browser and navigate to [http://127.0.0.1:5173/map-app/](http://127.0.0.1:5173/) to view the application.
 
 Congratulations! You have successfully set up and launched the Map App locally.
