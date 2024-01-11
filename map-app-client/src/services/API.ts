@@ -2,7 +2,7 @@ import axios from "axios";
 import { ILocation } from "../types/location";
 import { responseHandler } from "./responseHandler";
 
-const BASE_URL = "http://localhost:3000/api/locations";
+const BASE_URL = "https://map-app-server-one.vercel.app/locations";
 
 export const getLocations = async (): Promise<ILocation[]> => {
   return await responseHandler(axios.get(BASE_URL));
